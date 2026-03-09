@@ -1,2 +1,3 @@
 Projeto de Gerenciamento de Configuração
-Primeira modificação do projeto.
+Primeira alteração do projeto.
+Aluno: Eduardo Sanhudo
